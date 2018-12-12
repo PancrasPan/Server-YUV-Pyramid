@@ -1,0 +1,5 @@
+﻿  coudserver.cpp
+c:\users\cic-vr\documents\visual studio 2015\projects\vrplayer\vrplayer\coudserver.cpp(44): warning C4244: “参数”: 从“u_long”转换到“short”，可能丢失数据
+c:\users\cic-vr\documents\visual studio 2015\projects\vrplayer\vrplayer\coudserver.cpp(60): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\cic-vr\documents\visual studio 2015\projects\vrplayer\vrplayer\coudserver.cpp(52): warning C4101: “read_len”: 未引用的局部变量
+  cloudserver.vcxproj -> c:\users\cic-vr\documents\visual studio 2015\Projects\cloudserver\Debug\cloudserver.exe

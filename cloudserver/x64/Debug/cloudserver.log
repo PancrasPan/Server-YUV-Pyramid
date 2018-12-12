@@ -1,0 +1,14 @@
+﻿  coudserver.cpp
+c:\vr\opencv\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\vr\opencv\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\vr\opencv\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\vr\opencv\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\vr\opencv\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\cic-vr\documents\visual studio 2015\projects\cloudserver\cloudserver\coudserver.cpp(118): warning C4244: “参数”: 从“u_long”转换到“short”，可能丢失数据
+c:\users\cic-vr\documents\visual studio 2015\projects\cloudserver\cloudserver\coudserver.cpp(150): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\cic-vr\documents\visual studio 2015\projects\cloudserver\cloudserver\coudserver.cpp(182): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\cic-vr\documents\visual studio 2015\projects\cloudserver\cloudserver\coudserver.cpp(224): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+c:\users\cic-vr\documents\visual studio 2015\projects\cloudserver\cloudserver\coudserver.cpp(268): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+c:\users\cic-vr\documents\visual studio 2015\projects\cloudserver\cloudserver\coudserver.cpp(372): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+c:\users\cic-vr\documents\visual studio 2015\projects\cloudserver\cloudserver\coudserver.cpp(342): warning C4715: “server_transfer_Init”: 不是所有的控件路径都返回值
+  cloudserver.vcxproj -> C:\Users\cic-vr\Documents\Visual Studio 2015\Projects\cloudserver\x64\Debug\cloudserver.exe
